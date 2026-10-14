@@ -20,10 +20,10 @@ export const company = {
     'Individually we are a drop. But together we are an ocean. Coming together is the beginning. Working together is success.',
   founderQuote: 'Planning is bringing the future into the present.',
   // Kept as "combined" so it does not conflict with the founder's own years of experience.
-  experience: '40+ years of combined pharmaceutical experience',
+  experience: '30+ years of combined pharmaceutical experience',
   summary:
     'CNX Healthcare Pvt. Ltd. is a Mumbai-based pharmaceutical company founded in 2016 and headquartered at Shivaji Park, Dadar (W). It markets 400+ formulations through eight divisions — CNX, CNX Plus, CNX Prime, CNX Ortho, CNX Ortho 2, CNX Derma, CNX Gynec and CNX Cardio Diabetes — with a primary focus on CNS (psychiatry and neurology), and a presence in Maharashtra, Goa, Karnataka, Gujarat and Uttar Pradesh. All CNX products are manufactured by WHO-GMP certified partner companies.',
-  stats: { products: '400+', divisions: 8, specialities: 8, experience: '40+' },
+  stats: { products: '400+', divisions: 8, specialities: 8, experience: '30+' },
   states: ['Maharashtra', 'Goa', 'Karnataka', 'Gujarat', 'Uttar Pradesh'],
   contact: {
     phones: [
@@ -266,7 +266,7 @@ export const directors = {
 } as Record<string, { name: string; photo?: string; role?: string }[]>;
 
 export const founderBio = [
-  'Founder of CNX Healthcare Pvt. Ltd., with 40 years of extensive experience across Sales, Marketing and Finance in the pharmaceutical industry.',
+  'Founder of CNX Healthcare Pvt. Ltd., with 30 years of extensive experience across Sales, Marketing and Finance in the pharmaceutical industry.',
   'Has led high-performing teams across multiple locations in India, with major success in Sales and Finance.',
   'Believes in spirituality, has tremendous faith in God and in the transformative power of hard work.',
   'A goal-achiever and trend-setter — as passionately described by his entire team.',
