@@ -11,7 +11,7 @@ export const company = {
   shortName: 'CNX Healthcare',
   subsidiary: 'CNX Healthcare Plus Pvt. Ltd.',
   tagline: 'Healthier. Happier.',
-  mission: 'Towards a healthier and happier world.',
+  mission: 'Towards a healthier and happier India.',
   founded: '2016',
   city: 'Mumbai',
   founder: 'Mr. Arun Shivram Bawkar',
