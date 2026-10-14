@@ -9,7 +9,6 @@ export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: { default: `${company.shortName} — ${company.tagline}`, template: `%s | ${company.shortName}` },
   description: company.summary,
-  icons: { icon: '/favicon.svg' },
   formatDetection: { telephone: true },
 };
 
