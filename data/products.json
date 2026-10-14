@@ -1,0 +1,1738 @@
+{
+"cnx": [
+{
+"brand": "ACKNOTIN-3",
+"generic": "Melatonin 3mg Mouth Dissolving Tablets",
+"tag": "Psychiatry"
+},
+{
+"brand": "ACKNOTIN-5",
+"generic": "Melatonin 5mg Mouth Dissolving Tablets",
+"tag": "Psychiatry"
+},
+{
+"brand": "ACKNOTIN-10",
+"generic": "Melatonin 10mg Mouth Dissolving Tablets",
+"tag": "Psychiatry"
+},
+{
+"brand": "ATREEP 10",
+"generic": "Amitriptyline 10mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "ATREEP 25",
+"generic": "Amitriptyline 25mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "ATREEP PLUS",
+"generic": "Amitriptyline 12.5mg + Chlordiazepoxide 5mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "ATREEP FORTE",
+"generic": "Amitriptyline 25mg + Chlordiazepoxide 10mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "AXTVAN-1",
+"generic": "Lorazepam 1mg Mouth Dissolving Tablets",
+"tag": "Psychiatry"
+},
+{
+"brand": "AXTVAN-2",
+"generic": "Lorazepam 2mg Mouth Dissolving Tablets",
+"tag": "Psychiatry"
+},
+{
+"brand": "BECOCNX D3",
+"generic": "Alpha Lipoic Acid 100mg + Folic Acid 1.5mg + Methylcobalamin 1500mcg + Pyridoxine HCl 3mg + Vitamin D3 1000 IU",
+"tag": "Neurology"
+},
+{
+"brand": "BECOCNX OD",
+"generic": "Alpha Lipoic Acid 100mg + Folic Acid 1.5mg + Methylcobalamin 1500mcg + Pyridoxine HCl 3mg",
+"tag": "Neurology"
+},
+{
+"brand": "BECOCNX SL",
+"generic": "Mecobalamin 1500mcg Sublingual",
+"tag": "Neurology"
+},
+{
+"brand": "BETAGOLD 8",
+"generic": "Betahistine 8mg",
+"tag": "Neurology"
+},
+{
+"brand": "BETAGOLD 16",
+"generic": "Betahistine 16mg",
+"tag": "Neurology"
+},
+{
+"brand": "BETAGOLD 24",
+"generic": "Betahistine 24mg",
+"tag": "Neurology"
+},
+{
+"brand": "BETAGOLD OD 24",
+"generic": "Betahistine Controlled-Release 24mg",
+"tag": "Neurology"
+},
+{
+"brand": "BETAGOLD OD 48",
+"generic": "Betahistine Controlled-Release 48mg",
+"tag": "Neurology"
+},
+{
+"brand": "BETEALA 20MG",
+"generic": "Fluoxetine 20mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "BETEALA 40MG",
+"generic": "Fluoxetine 40mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "BETEALA 60MG",
+"generic": "Fluoxetine 60mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "BINAPREX ER-250",
+"generic": "Divalproex Sodium Extended-Release 250mg",
+"tag": "Neurology"
+},
+{
+"brand": "BINAPREX ER-500",
+"generic": "Divalproex Sodium Extended-Release 500mg",
+"tag": "Neurology"
+},
+{
+"brand": "BINAPREX ER-750",
+"generic": "Divalproex Sodium Extended-Release 750mg",
+"tag": "Neurology"
+},
+{
+"brand": "BINAPREX ER-1000",
+"generic": "Divalproex Sodium Extended-Release 1000mg",
+"tag": "Neurology"
+},
+{
+"brand": "CENTIQ-P",
+"generic": "Citicoline 500mg + Piracetam 800mg",
+"tag": "Neurology"
+},
+{
+"brand": "CLOSINE-OZ",
+"generic": "Ofloxacin 200mg + Ornidazole 500mg",
+"tag": "General"
+},
+{
+"brand": "CNDOL 650",
+"generic": "Paracetamol 650mg",
+"tag": "General"
+},
+{
+"brand": "CNLEV 250",
+"generic": "Levetiracetam 250mg",
+"tag": "Neurology"
+},
+{
+"brand": "CNLEV 500",
+"generic": "Levetiracetam 500mg",
+"tag": "Neurology"
+},
+{
+"brand": "CNLEV 750",
+"generic": "Levetiracetam 750mg",
+"tag": "Neurology"
+},
+{
+"brand": "CNLEV 1000",
+"generic": "Levetiracetam 1000mg",
+"tag": "Neurology"
+},
+{
+"brand": "CNPINEX-1.25",
+"generic": "Olanzapine 1.25mg Mouth Dissolving Tablets",
+"tag": "Psychiatry"
+},
+{
+"brand": "CNPINEX-2.5",
+"generic": "Olanzapine 2.5mg Mouth Dissolving Tablets",
+"tag": "Psychiatry"
+},
+{
+"brand": "CNPINEX-5",
+"generic": "Olanzapine 5mg Mouth Dissolving Tablets",
+"tag": "Psychiatry"
+},
+{
+"brand": "CNPINEX-7.5",
+"generic": "Olanzapine 7.5mg Mouth Dissolving Tablets",
+"tag": "Psychiatry"
+},
+{
+"brand": "CNPINEX-10",
+"generic": "Olanzapine 10mg Mouth Dissolving Tablets",
+"tag": "Psychiatry"
+},
+{
+"brand": "CNPROT",
+"generic": "Flupentixol 0.5mg + Melitracen 10mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "CNPX100",
+"generic": "Itraconazole 100mg Capsules",
+"tag": "Derma"
+},
+{
+"brand": "CNPX200",
+"generic": "Itraconazole 200mg Capsules",
+"tag": "Derma"
+},
+{
+"brand": "CNX CLAV 625",
+"generic": "Amoxycillin 500mg + Potassium Clavulanate 125mg",
+"tag": "General"
+},
+{
+"brand": "CNX-DOX",
+"generic": "Doxycycline 100mg + Lactobacillus 5 Billion Spores",
+"tag": "General"
+},
+{
+"brand": "DOFOTIL SYRUP",
+"generic": "Lactulose Solution 200ml",
+"tag": "General"
+},
+{
+"brand": "DTING 20",
+"generic": "Duloxetine 20mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "ELM-0.25",
+"generic": "Etizolam 0.25mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "ELM-0.5",
+"generic": "Etizolam 0.5mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "ELM-CR 1.5",
+"generic": "Etizolam Controlled-Release 1.5mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "ELM PLUS 5",
+"generic": "Escitalopram 5mg + Etizolam 0.5mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "ELM PLUS 10",
+"generic": "Escitalopram 10mg + Etizolam 0.5mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "ELM PRO 20",
+"generic": "Etizolam 0.5mg + Propranolol 20mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "EPNOX 150",
+"generic": "Oxcarbazepine 150mg",
+"tag": "Neurology"
+},
+{
+"brand": "EPNOX 300",
+"generic": "Oxcarbazepine 300mg",
+"tag": "Neurology"
+},
+{
+"brand": "EPNOX 450",
+"generic": "Oxcarbazepine 450mg",
+"tag": "Neurology"
+},
+{
+"brand": "EPNOX OD 150",
+"generic": "Oxcarbazepine Once-Daily 150mg",
+"tag": "Neurology"
+},
+{
+"brand": "EPNOX OD 300",
+"generic": "Oxcarbazepine Once-Daily 300mg",
+"tag": "Neurology"
+},
+{
+"brand": "EPNOX OD 450",
+"generic": "Oxcarbazepine Once-Daily 450mg",
+"tag": "Neurology"
+},
+{
+"brand": "ESCNX 5",
+"generic": "Escitalopram 5mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "ESCNX 10",
+"generic": "Escitalopram 10mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "ESCNX 15",
+"generic": "Escitalopram 15mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "ESCNX 20",
+"generic": "Escitalopram 20mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "ESCNX LS 5",
+"generic": "Escitalopram 5mg + Clonazepam 0.25mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "ESCNX LS 10",
+"generic": "Escitalopram 10mg + Clonazepam 0.25mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "ESCNX PLUS 5",
+"generic": "Escitalopram 5mg + Clonazepam 0.5mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "ESCNX PLUS 10",
+"generic": "Escitalopram 10mg + Clonazepam 0.5mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "F-RACIL 5",
+"generic": "Flunarizine 5mg",
+"tag": "Neurology"
+},
+{
+"brand": "F-RACIL 10",
+"generic": "Flunarizine 10mg",
+"tag": "Neurology"
+},
+{
+"brand": "F-RACIL PLUS 5",
+"generic": "Flunarizine 5mg + Propranolol 40mg",
+"tag": "Neurology"
+},
+{
+"brand": "F-RACIL PLUS 10",
+"generic": "Flunarizine 10mg + Propranolol 40mg",
+"tag": "Neurology"
+},
+{
+"brand": "FI-CNX 30GM",
+"generic": "Luliconazole Cream 30g",
+"tag": "Derma"
+},
+{
+"brand": "FI-CNX 50GM",
+"generic": "Luliconazole Cream 50g",
+"tag": "Derma"
+},
+{
+"brand": "GABACNX 100",
+"generic": "Gabapentin 100mg",
+"tag": "Neurology"
+},
+{
+"brand": "GABACNX 300",
+"generic": "Gabapentin 300mg",
+"tag": "Neurology"
+},
+{
+"brand": "GABACNX NT 100",
+"generic": "Gabapentin 100mg + Nortriptyline 10mg",
+"tag": "Neurology"
+},
+{
+"brand": "GABACNX NT 400",
+"generic": "Gabapentin 400mg + Nortriptyline 10mg",
+"tag": "Neurology"
+},
+{
+"brand": "HB GOLD",
+"generic": "Aceclofenac 100mg + Paracetamol 325mg",
+"tag": "Orthopaedics"
+},
+{
+"brand": "LISANI 5MG",
+"generic": "Levocetirizine 5mg",
+"tag": "General"
+},
+{
+"brand": "LISANI M",
+"generic": "Levocetirizine 5mg + Montelukast 10mg",
+"tag": "General"
+},
+{
+"brand": "LURACISE-120",
+"generic": "Fexofenadine 120mg",
+"tag": "General"
+},
+{
+"brand": "LURACISE-180",
+"generic": "Fexofenadine 180mg",
+"tag": "General"
+},
+{
+"brand": "LURACISE-M",
+"generic": "Fexofenadine 120mg + Montelukast 10mg",
+"tag": "General"
+},
+{
+"brand": "MEMANSYS-5",
+"generic": "Memantine 5mg",
+"tag": "Neurology"
+},
+{
+"brand": "MEMANSYS-10",
+"generic": "Memantine 10mg",
+"tag": "Neurology"
+},
+{
+"brand": "MEMANSYS-D-5",
+"generic": "Memantine 5mg + Donepezil 5mg",
+"tag": "Neurology"
+},
+{
+"brand": "MEMANSYS-D-10",
+"generic": "Memantine 10mg + Donepezil 5mg",
+"tag": "Neurology"
+},
+{
+"brand": "MOMPRESS 7.5",
+"generic": "Mirtazapine 7.5mg Orodispersible",
+"tag": "Psychiatry"
+},
+{
+"brand": "MOMPRESS 15",
+"generic": "Mirtazapine 15mg Orodispersible",
+"tag": "Psychiatry"
+},
+{
+"brand": "MOMPRESS 30",
+"generic": "Mirtazapine 30mg Orodispersible",
+"tag": "Psychiatry"
+},
+{
+"brand": "NAL-50",
+"generic": "Naltrexone 50mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "OCDOX 25",
+"generic": "Fluvoxamine 25mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "OCDOX 50",
+"generic": "Fluvoxamine 50mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "OCDOX 100",
+"generic": "Fluvoxamine 100mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "OCDOX CR 100",
+"generic": "Fluvoxamine Extended-Release 100mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "OCDOX CR 150",
+"generic": "Fluvoxamine Extended-Release 150mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "OXNZ TABLETS",
+"generic": "Oxazepam 10mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "PRERABE 20",
+"generic": "Rabeprazole 20mg",
+"tag": "General"
+},
+{
+"brand": "PRERABE D",
+"generic": "Rabeprazole 20mg + Domperidone 30mg (SR)",
+"tag": "General"
+},
+{
+"brand": "PRTXOL-0.125",
+"generic": "Pramipexole 0.125mg",
+"tag": "Neurology"
+},
+{
+"brand": "PRTXOL-0.25",
+"generic": "Pramipexole 0.25mg",
+"tag": "Neurology"
+},
+{
+"brand": "PRTXOL-0.50",
+"generic": "Pramipexole 0.50mg",
+"tag": "Neurology"
+},
+{
+"brand": "PRTXOL SR-0.26",
+"generic": "Pramipexole Prolonged-Release 0.26mg",
+"tag": "Neurology"
+},
+{
+"brand": "PRTXOL SR-0.52",
+"generic": "Pramipexole Prolonged-Release 0.52mg",
+"tag": "Neurology"
+},
+{
+"brand": "PRTXOL SR-1.05",
+"generic": "Pramipexole Prolonged-Release 1.05mg",
+"tag": "Neurology"
+},
+{
+"brand": "PRUMPIN 10",
+"generic": "Clomipramine 10mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "PRUMPIN 25",
+"generic": "Clomipramine 25mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "PRUMPIN 50",
+"generic": "Clomipramine 50mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "PRUMPIN SR 75",
+"generic": "Clomipramine Sustained-Release 75mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "TOPCNX 25",
+"generic": "Topiramate 25mg",
+"tag": "Neurology"
+},
+{
+"brand": "TOPCNX 50",
+"generic": "Topiramate 50mg",
+"tag": "Neurology"
+},
+{
+"brand": "TOPCNX 100",
+"generic": "Topiramate 100mg",
+"tag": "Neurology"
+},
+{
+"brand": "VALCNX 200",
+"generic": "Sodium Valproate + Valproic Acid Controlled-Release 200mg",
+"tag": "Neurology"
+},
+{
+"brand": "VALCNX 300",
+"generic": "Sodium Valproate + Valproic Acid Controlled-Release 300mg",
+"tag": "Neurology"
+},
+{
+"brand": "VALCNX 500",
+"generic": "Sodium Valproate + Valproic Acid Controlled-Release 500mg",
+"tag": "Neurology"
+},
+{
+"brand": "VOXVO-5",
+"generic": "Vortioxetine 5mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "VOXVO-10",
+"generic": "Vortioxetine 10mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "VOXVO-15",
+"generic": "Vortioxetine 15mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "VOXVO-20",
+"generic": "Vortioxetine 20mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "XANTRON 500",
+"generic": "Azithromycin 500mg",
+"tag": "General"
+},
+{
+"brand": "BRONKOSYP DX",
+"generic": "Chlorpheniramine 2mg + Dextromethorphan 10mg + Phenylephrine 5mg — Sugar-Free Dry Cough Syrup 100ml",
+"tag": "General"
+},
+{
+"brand": "BRONKOSYP LS",
+"generic": "Ambroxol 30mg + Guaifenesin 50mg + Levosalbutamol 1mg — Sugar-Free Wet Cough Syrup 100ml",
+"tag": "General"
+},
+{
+"brand": "CNGUT",
+"generic": "Probiotic — FOS + Saccharomyces boulardii + Lactobacillus",
+"tag": "General"
+}
+],
+"cnx-plus": [
+{
+"brand": "BILURACISE 20",
+"generic": "Bilastine 20mg",
+"tag": "General"
+},
+{
+"brand": "BILURACISE-M",
+"generic": "Bilastine 20mg + Montelukast 10mg",
+"tag": "General"
+},
+{
+"brand": "BUPIPRECE SR 150",
+"generic": "Bupropion HCl Extended-Release 150mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "BYCINE-OD",
+"generic": "Benfotiamine + Alpha Lipoic Acid + Mecobalamin + Chromium + Myo-Inositol",
+"tag": "Neurology"
+},
+{
+"brand": "CENAM 100",
+"generic": "Itraconazole 100mg Capsules",
+"tag": "Derma"
+},
+{
+"brand": "CENAM 200",
+"generic": "Itraconazole 200mg Capsules",
+"tag": "Derma"
+},
+{
+"brand": "CENRUS-D",
+"generic": "Cinnarizine 20mg + Dimenhydrinate 40mg",
+"tag": "Neurology"
+},
+{
+"brand": "CNZEP-0.25",
+"generic": "Clonazepam 0.25mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "CNZEP-0.5",
+"generic": "Clonazepam 0.5mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "CNZEP-1",
+"generic": "Clonazepam 1mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "D-LURACISE",
+"generic": "Desloratadine 5mg",
+"tag": "General"
+},
+{
+"brand": "DTXT-25",
+"generic": "Desvenlafaxine Extended-Release 25mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "DTXT-50",
+"generic": "Desvenlafaxine Extended-Release 50mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "DTXT-100",
+"generic": "Desvenlafaxine Extended-Release 100mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "EGUL SYRUP",
+"generic": "Milk of Magnesia + Liquid Paraffin + Sodium Picosulphate",
+"tag": "General"
+},
+{
+"brand": "HBGOLD ULTRA",
+"generic": "Tramadol HCl + Acetaminophen",
+"tag": "General"
+},
+{
+"brand": "JOYSTIFF 50",
+"generic": "Amisulpride 50mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "JOYSTIFF 100",
+"generic": "Amisulpride 100mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "JOYSTIFF 200",
+"generic": "Amisulpride 200mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "JOYSTIFF 300",
+"generic": "Amisulpride 300mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "JOYSTIFF 400",
+"generic": "Amisulpride 400mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "MEGRACYN",
+"generic": "Magnesium + Coenzyme Q10 + Riboflavin",
+"tag": "Neurology"
+},
+{
+"brand": "PRERABE-L",
+"generic": "Rabeprazole 20mg + Levosulpiride SR 75mg",
+"tag": "General"
+},
+{
+"brand": "PREXIME CV",
+"generic": "Cefixime 200mg + Clavulanic Acid 125mg",
+"tag": "General"
+},
+{
+"brand": "PREXIME DT-200",
+"generic": "Cefixime Dispersible 200mg",
+"tag": "General"
+},
+{
+"brand": "RABC-20",
+"generic": "Rabeprazole Gastro-Resistant 20mg",
+"tag": "General"
+},
+{
+"brand": "RABC-D",
+"generic": "Rabeprazole 20mg + Domperidone 30mg",
+"tag": "General"
+},
+{
+"brand": "BYCINE SYRUP",
+"generic": "Multivitamin Syrup (Sugar-Free)",
+"tag": "General"
+},
+{
+"brand": "TOLIDAY D",
+"generic": "Diclofenac 50mg + Tolperisone 150mg",
+"tag": "Orthopaedics"
+},
+{
+"brand": "TOLIDAY SR 450",
+"generic": "Tolperisone Sustained-Release 450mg",
+"tag": "Orthopaedics"
+}
+],
+"cnx-prime": [
+{
+"brand": "AXEPINE MD-2",
+"generic": "Aripiprazole 2mg Mouth Dissolving Tablets",
+"tag": "Psychiatry"
+},
+{
+"brand": "AXEPINE MD-5",
+"generic": "Aripiprazole 5mg Mouth Dissolving Tablets",
+"tag": "Psychiatry"
+},
+{
+"brand": "AXEPINE MD-10",
+"generic": "Aripiprazole 10mg Mouth Dissolving Tablets",
+"tag": "Psychiatry"
+},
+{
+"brand": "AXEPINE MD-15",
+"generic": "Aripiprazole 15mg Mouth Dissolving Tablets",
+"tag": "Psychiatry"
+},
+{
+"brand": "AXEPINE MD-20",
+"generic": "Aripiprazole 20mg Mouth Dissolving Tablets",
+"tag": "Psychiatry"
+},
+{
+"brand": "BECOCNX-LITE",
+"generic": "Multivitamin Tablets",
+"tag": "General"
+},
+{
+"brand": "BYCINE CD3",
+"generic": "ALA + Benfotiamine + Calcium + Chromium Picolinate + Folic Acid",
+"tag": "Neurology"
+},
+{
+"brand": "CETAPRIME",
+"generic": "Ubiquinol + Vitamin E + Omega-3",
+"tag": "Neurology"
+},
+{
+"brand": "CNCALM PLUS",
+"generic": "Trihexyphenidyl HCl + Trifluoperazine HCl",
+"tag": "Psychiatry"
+},
+{
+"brand": "CNPAXET-12.5",
+"generic": "Paroxetine Controlled Release 12.5mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "CNPAXET-25",
+"generic": "Paroxetine Controlled Release 25mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "CNPAXET-37.5",
+"generic": "Paroxetine Controlled Release 37.5mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "CNPAXET PLUS 12.5",
+"generic": "Paroxetine CR 12.5mg + Clonazepam 0.5mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "CNPAXET PLUS 25",
+"generic": "Paroxetine CR 25mg + Clonazepam 0.5mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "CNSERT-25",
+"generic": "Sertraline 25mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "CNSERT-50",
+"generic": "Sertraline 50mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "CNSERT-100",
+"generic": "Sertraline 100mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "HBGOLD SPAZ",
+"generic": "Paracetamol + Chlorzoxazone",
+"tag": "Orthopaedics"
+},
+{
+"brand": "KYU-25",
+"generic": "Quetiapine 25mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "KYU-50",
+"generic": "Quetiapine 50mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "KYU-100",
+"generic": "Quetiapine 100mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "KYU-200",
+"generic": "Quetiapine 200mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "KYU-SR 100",
+"generic": "Quetiapine Fumarate Sustained Release 100mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "KYU-SR 200",
+"generic": "Quetiapine Fumarate Sustained Release 200mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "NXHEAD 250",
+"generic": "Naproxen Sodium 250mg + Domperidone 10mg",
+"tag": "Neurology"
+},
+{
+"brand": "NXHEAD 500",
+"generic": "Naproxen Sodium 500mg + Domperidone 10mg",
+"tag": "Neurology"
+},
+{
+"brand": "PLATANOX-40",
+"generic": "Pantoprazole 40mg",
+"tag": "General"
+},
+{
+"brand": "PLATANOX-D",
+"generic": "Pantoprazole 40mg + Domperidone 30mg",
+"tag": "General"
+},
+{
+"brand": "PRESTILLER 50",
+"generic": "Pregabalin 50mg",
+"tag": "Neurology"
+},
+{
+"brand": "PRESTILLER 75",
+"generic": "Pregabalin 75mg",
+"tag": "Neurology"
+},
+{
+"brand": "PRESTILLER D",
+"generic": "Pregabalin 75mg + Duloxetine 20mg",
+"tag": "Neurology"
+},
+{
+"brand": "PRESTILLER D75",
+"generic": "Pregabalin 75mg + Duloxetine 20mg",
+"tag": "Neurology"
+},
+{
+"brand": "PRESTILLER NT 50",
+"generic": "Pregabalin 50mg + Nortriptyline 10mg",
+"tag": "Neurology"
+},
+{
+"brand": "PRESTILLER NT 75",
+"generic": "Pregabalin 75mg + Nortriptyline 10mg",
+"tag": "Neurology"
+},
+{
+"brand": "PRETIMOL",
+"generic": "Palmitoylethanolamide + Acetyl L-Carnitine",
+"tag": "Neurology"
+},
+{
+"brand": "RPDONE-0.5",
+"generic": "Risperidone 0.5mg Mouth Dissolving Tablets",
+"tag": "Psychiatry"
+},
+{
+"brand": "RPDONE-1",
+"generic": "Risperidone 1mg Mouth Dissolving Tablets",
+"tag": "Psychiatry"
+},
+{
+"brand": "RPDONE-2",
+"generic": "Risperidone 2mg Mouth Dissolving Tablets",
+"tag": "Psychiatry"
+},
+{
+"brand": "RPDONE-LS",
+"generic": "Risperidone 2mg + Trihexyphenidyl 2mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "RPDONE-PLUS",
+"generic": "Risperidone 3mg + Trihexyphenidyl 2mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "RPDONE-FORTE",
+"generic": "Risperidone 4mg + Trihexyphenidyl 2mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "TOMKID-10",
+"generic": "Atomoxetine 10mg Mouth Dissolving Tablets",
+"tag": "Psychiatry"
+},
+{
+"brand": "TOMKID-18",
+"generic": "Atomoxetine 18mg Mouth Dissolving Tablets",
+"tag": "Psychiatry"
+},
+{
+"brand": "TOMKID-25",
+"generic": "Atomoxetine 25mg Mouth Dissolving Tablets",
+"tag": "Psychiatry"
+},
+{
+"brand": "TOMKID-40",
+"generic": "Atomoxetine 40mg Mouth Dissolving Tablets",
+"tag": "Psychiatry"
+},
+{
+"brand": "CEFB200",
+"generic": "Cefpodoxime 200mg",
+"tag": "General"
+},
+{
+"brand": "CLOZENIL 6.25",
+"generic": "Clozapine 6.25mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "CLOZENIL 12.5",
+"generic": "Clozapine 12.5mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "CLOZENIL 25",
+"generic": "Clozapine 25mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "CLOZENIL 50",
+"generic": "Clozapine 50mg",
+"tag": "Psychiatry"
+},
+{
+"brand": "CLOZENIL 100",
+"generic": "Clozapine 100mg",
+"tag": "Psychiatry"
+}
+],
+"cnx-ortho": [
+{
+"brand": "BECOCNX 60K",
+"generic": "Cholecalciferol (Vitamin D3) 60,000 IU Chewable",
+"tag": "Orthopaedics"
+},
+{
+"brand": "BECOCNX-PM",
+"generic": "Pregabalin 75mg + Methylcobalamin + Alpha Lipoic Acid 300mg + Folic Acid + Vitamin B6",
+"tag": "Neurology"
+},
+{
+"brand": "BENCNX-OD",
+"generic": "Benfotiamine + Alpha Lipoic Acid + Mecobalamin + Chromium + Pyridoxine",
+"tag": "Neurology"
+},
+{
+"brand": "CNCAL",
+"generic": "Calcium + Methylcobalamin + L-Methylfolate + Pyridoxal-5-Phosphate + Vitamin D3",
+"tag": "Orthopaedics"
+},
+{
+"brand": "CNPRAZ-40",
+"generic": "Pantoprazole 40mg",
+"tag": "General"
+},
+{
+"brand": "CNPRAZ D",
+"generic": "Pantoprazole 40mg + Domperidone 10mg",
+"tag": "General"
+},
+{
+"brand": "CNX-CAL",
+"generic": "Calcium Citrate 1000mg + Elemental Magnesium 100mg + Elemental Zinc 4mg + Vitamin D3 250 IU",
+"tag": "Orthopaedics"
+},
+{
+"brand": "GDMIN-D",
+"generic": "Trypsin + Bromelain + Rutoside + Diclofenac Potassium 50mg",
+"tag": "Orthopaedics"
+},
+{
+"brand": "GDMIN-TBR",
+"generic": "Trypsin + Bromelain + Rutoside Trihydrate",
+"tag": "Orthopaedics"
+},
+{
+"brand": "GEMIPRESS",
+"generic": "Cissus Quadrangularis 750mg + Calcium Citrate + Vitamin D",
+"tag": "Orthopaedics"
+},
+{
+"brand": "HBGOLD GEL",
+"generic": "Diclofenac Diethylamine + Methyl Salicylate + Linseed Oil + Menthol Gel",
+"tag": "Orthopaedics"
+},
+{
+"brand": "HB GOLD MR",
+"generic": "Aceclofenac 100mg + Paracetamol 325mg + Thiocolchicoside 4mg",
+"tag": "Orthopaedics"
+},
+{
+"brand": "HB GOLD-P",
+"generic": "Aceclofenac 100mg + Paracetamol 325mg",
+"tag": "Orthopaedics"
+},
+{
+"brand": "HBGOLD SP",
+"generic": "Aceclofenac 100mg + Paracetamol 325mg + Serratiopeptidase 10mg",
+"tag": "Orthopaedics"
+},
+{
+"brand": "NOLOPAIN 60",
+"generic": "Etoricoxib 60mg",
+"tag": "Orthopaedics"
+},
+{
+"brand": "NOLOPAIN 90",
+"generic": "Etoricoxib 90mg",
+"tag": "Orthopaedics"
+},
+{
+"brand": "NOLOPAIN MR",
+"generic": "Etoricoxib 60mg + Thiocolchicoside 4mg",
+"tag": "Orthopaedics"
+},
+{
+"brand": "NOLOPAIN P",
+"generic": "Etoricoxib 60mg + Paracetamol 325mg",
+"tag": "Orthopaedics"
+},
+{
+"brand": "PRIXICAM",
+"generic": "Cefuroxime 500mg",
+"tag": "General"
+},
+{
+"brand": "PRIXICAM-CV",
+"generic": "Cefuroxime 500mg + Clavulanic Acid 125mg",
+"tag": "General"
+},
+{
+"brand": "RABDIT-20",
+"generic": "Rabeprazole Gastro-Resistant 20mg",
+"tag": "General"
+},
+{
+"brand": "RABDIT-D",
+"generic": "Rabeprazole 20mg + Domperidone 30mg",
+"tag": "General"
+},
+{
+"brand": "STIFFLESS",
+"generic": "Collagen Peptides + Sodium Hyaluronate + Chondroitin Sulphate + Vitamin C",
+"tag": "Orthopaedics"
+},
+{
+"brand": "CARTIPRIME",
+"generic": "Glucosamine Sulphate + Diacerein + Methyl Sulphonyl Methane",
+"tag": "Orthopaedics"
+},
+{
+"brand": "TOLIDAY P",
+"generic": "Paracetamol 325mg + Tolperisone 150mg",
+"tag": "Orthopaedics"
+}
+],
+"cnx-ortho-2": [
+{
+"brand": "BENCNX D3",
+"generic": "Methylcobalamin + Alpha Lipoic Acid + Pyridoxine + Vitamin D3",
+"tag": "Neurology"
+},
+{
+"brand": "BENCNX LC",
+"generic": "L-Carnitine L-Tartrate + Methylcobalamin + Folic Acid",
+"tag": "Neurology"
+},
+{
+"brand": "CALGREEN MAX",
+"generic": "Omega-3 Fatty Acids + Methylcobalamin + Calcitriol + Calcium Citrate + Boron",
+"tag": "Orthopaedics"
+},
+{
+"brand": "CALGREEN PLUS",
+"generic": "Calcium Citrate + Magnesium + Zinc + Vitamin D3",
+"tag": "Orthopaedics"
+},
+{
+"brand": "EVOCARTIN",
+"generic": "Collagen Type I + Glucosamine + Chondroitin + Quercetin + Vitamins",
+"tag": "Orthopaedics"
+},
+{
+"brand": "TUBOFLAM GEL",
+"generic": "Diclofenac Diethylamine + Methyl Salicylate + Linseed Oil + Menthol Gel",
+"tag": "Orthopaedics"
+},
+{
+"brand": "TUBOFLAM SP",
+"generic": "Aceclofenac 100mg + Paracetamol 325mg + Serratiopeptidase 15mg",
+"tag": "Orthopaedics"
+},
+{
+"brand": "TUBOFLAM TH",
+"generic": "Aceclofenac 100mg + Paracetamol 325mg + Thiocolchicoside 4mg",
+"tag": "Orthopaedics"
+},
+{
+"brand": "TUBOGOLD-D",
+"generic": "Trypsin + Bromelain + Rutoside + Diclofenac Potassium",
+"tag": "Orthopaedics"
+},
+{
+"brand": "TUBOGOLD TBR",
+"generic": "Trypsin + Bromelain + Rutoside",
+"tag": "Orthopaedics"
+},
+{
+"brand": "PRESTILLER-MNT",
+"generic": "Methylcobalamin 1500mcg + Nortriptyline 10mg + Pregabalin 75mg",
+"tag": "Neurology"
+}
+],
+"cnx-derma": [
+{
+"brand": "CNPX SB 65",
+"generic": "Itraconazole 65mg (Supra-Bioavailable) Capsules",
+"tag": "Derma"
+},
+{
+"brand": "CNPX SB 130",
+"generic": "Itraconazole 130mg (Supra-Bioavailable) Capsules",
+"tag": "Derma"
+},
+{
+"brand": "CNSPOR",
+"generic": "Cyclosporine 50mg Capsules",
+"tag": "Derma"
+},
+{
+"brand": "CNXMIN-2.5",
+"generic": "Minoxidil 2.5mg Tablets",
+"tag": "Derma"
+},
+{
+"brand": "CNXMIN SOLN. 5%",
+"generic": "Minoxidil Topical Solution 5%",
+"tag": "Derma"
+},
+{
+"brand": "CNX MOIST. CREAM",
+"generic": "Intense Moisturizing Cream",
+"tag": "Skincare"
+},
+{
+"brand": "CNX MOIST. SOAP",
+"generic": "Moisturizing Soap 75g",
+"tag": "Skincare"
+},
+{
+"brand": "CNX SUNSCREEN",
+"generic": "Broad-spectrum Sunscreen (UV-A / UV-B)",
+"tag": "Skincare"
+},
+{
+"brand": "ITRNOIN 10",
+"generic": "Isotretinoin 10mg Capsules",
+"tag": "Derma"
+},
+{
+"brand": "ITRNOIN 20",
+"generic": "Isotretinoin 20mg Capsules",
+"tag": "Derma"
+},
+{
+"brand": "KETALLO CREAM",
+"generic": "Ketoconazole Cream 2%",
+"tag": "Derma"
+},
+{
+"brand": "REVIQUE SHAMPOO",
+"generic": "Biotin + Caffeine + Niacinamide + Hyaluronic Acid",
+"tag": "Skincare"
+},
+{
+"brand": "SERUPTIN TAB",
+"generic": "Anagain 50mcg + Biotin 40mcg + Coenzyme Q10 80mg + Elemental Copper 1mg + Elemental Iron 8mg + Elemental Selenium 20mcg + Elemental Zinc 15mg + Folic Acid 100mcg + Iodine 30mcg + Lycopene 5mg + Vitamin A 300mcg + Vitamin B1 1.4mg + Vitamin B12 2.2mcg + Vitamin B2 1.5mg + Vitamin B3 10mg + Vitamin B5 5mg + Vitamin B6 1.9mg + Vitamin C 80mg + Vitamin D3 600 IU + Vitamin E 10mg + Elemental Sodium 0.8mg + Vitamin K2 40mcg",
+"tag": "Skincare"
+},
+{
+"brand": "JAKCARE 5",
+"generic": "Tofacitinib 5mg",
+"tag": "Derma"
+},
+{
+"brand": "JAKCARE XR 11",
+"generic": "Tofacitinib 11mg (Extended-Release)",
+"tag": "Derma"
+},
+{
+"brand": "REVIGLOW FACE WASH",
+"generic": "Kojic Acid + Niacinamide + Hyaluronic Acid",
+"tag": "Skincare"
+}
+],
+"cnx-gynec": [
+{
+"brand": "CNX PROTEIN POWDER",
+"generic": "Sugar-Free Chocolate Flavour Protein Powder",
+"tag": "Gynaecology"
+},
+{
+"brand": "DYPRESNA 10",
+"generic": "Dydrogesterone 10mg",
+"tag": "Gynaecology"
+},
+{
+"brand": "PRESNA SR 200",
+"generic": "Progesterone Sustained Release 200mg",
+"tag": "Gynaecology"
+},
+{
+"brand": "PRESNA SR 300",
+"generic": "Progesterone Sustained Release 300mg",
+"tag": "Gynaecology"
+},
+{
+"brand": "SUREPAM TAB",
+"generic": "Calcium Carbonate 1000mg + Cholecalciferol 500 IU + Magnesium Hydroxide 240mg + Zinc 11mg",
+"tag": "Gynaecology"
+},
+{
+"brand": "VINOREL-XT",
+"generic": "Ferrous Ascorbate + Folic Acid",
+"tag": "Gynaecology"
+}
+],
+"cnx-cardio-diabetes": [
+{
+"brand": "EMFALIN 10",
+"generic": "Empagliflozin 10mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "EMFALIN 25",
+"generic": "Empagliflozin 25mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "EMFALIN L 10",
+"generic": "Empagliflozin 10mg + Linagliptin 5mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "EMFALIN L 25",
+"generic": "Empagliflozin 25mg + Linagliptin 5mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "DAFANEXT 5",
+"generic": "Dapagliflozin 5mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "DAFANEXT 10",
+"generic": "Dapagliflozin 10mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "DAFANEXT S 5/50",
+"generic": "Dapagliflozin 5mg + Sitagliptin 50mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "DAFANEXT S 5/100",
+"generic": "Dapagliflozin 5mg + Sitagliptin 100mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "DAFANEXT S 10/100",
+"generic": "Dapagliflozin 10mg + Sitagliptin 100mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "DAFANEXT M 5/500",
+"generic": "Dapagliflozin 5mg + Metformin 500mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "DAFANEXT M 10/500",
+"generic": "Dapagliflozin 10mg + Metformin 500mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "DAFANEXT M 10/1000",
+"generic": "Dapagliflozin 10mg + Metformin 1000mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "DAFANEXT SM 10/500",
+"generic": "Dapagliflozin 10mg + Sitagliptin 100mg + Metformin 500mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "DAFANEXT SM 10/1000",
+"generic": "Dapagliflozin 10mg + Sitagliptin 100mg + Metformin 1000mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "DAFANEXT L 10/5",
+"generic": "Dapagliflozin 10mg + Linagliptin 5mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "DAFANEXT LM 10/5/1000",
+"generic": "Dapagliflozin 10mg + Linagliptin 5mg + Metformin 1000mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "CNSITA 25",
+"generic": "Sitagliptin 25mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "CNSITA 50",
+"generic": "Sitagliptin 50mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "CNSITA 100",
+"generic": "Sitagliptin 100mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "CNSITA MET 50/500",
+"generic": "Sitagliptin 50mg + Metformin 500mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "CNSITA MET 100/500",
+"generic": "Sitagliptin 100mg + Metformin 500mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "CNSITA MP 100/500/15",
+"generic": "Sitagliptin 100mg + Metformin 500mg + Pioglitazone 15mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "CNLINA 5",
+"generic": "Linagliptin 5mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "GMCARD 1",
+"generic": "Glimepiride 1mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "GMCARD 2",
+"generic": "Glimepiride 2mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "GMCARD 3",
+"generic": "Glimepiride 3mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "GMCARD M 1",
+"generic": "Glimepiride 1mg + Metformin 500mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "GMCARD M 2",
+"generic": "Glimepiride 2mg + Metformin 500mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "GMCARD M 3",
+"generic": "Glimepiride 3mg + Metformin 500mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "GMCARD M1 FORTE",
+"generic": "Glimepiride 1mg + Metformin 1000mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "GMCARD M2 FORTE",
+"generic": "Glimepiride 2mg + Metformin 1000mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "GMCARD M3 FORTE",
+"generic": "Glimepiride 3mg + Metformin 1000mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "GMCARD MV 1",
+"generic": "Glimepiride 1mg + Metformin 500mg + Voglibose 0.2mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "GRELEX ER 30",
+"generic": "Gliclazide ER 30mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "GRELEX ER 60",
+"generic": "Gliclazide ER 60mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "GRELEX M 60",
+"generic": "Gliclazide 40mg + Metformin 500mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "GRELEX M 80",
+"generic": "Gliclazide 80mg + Metformin 500mg",
+"tag": "Antidiabetic"
+},
+{
+"brand": "LIPSTABLE 5",
+"generic": "Rosuvastatin 5mg",
+"tag": "Lipid-lowering"
+},
+{
+"brand": "LIPSTABLE 10",
+"generic": "Rosuvastatin 10mg",
+"tag": "Lipid-lowering"
+},
+{
+"brand": "LIPSTABLE 20",
+"generic": "Rosuvastatin 20mg",
+"tag": "Lipid-lowering"
+},
+{
+"brand": "LIPSTABLE F 5/67",
+"generic": "Rosuvastatin 5mg + Fenofibrate 67mg",
+"tag": "Lipid-lowering"
+},
+{
+"brand": "LIPSTABLE F 10/67",
+"generic": "Rosuvastatin 10mg + Fenofibrate 67mg",
+"tag": "Lipid-lowering"
+},
+{
+"brand": "LIPSTABLE F 5/160",
+"generic": "Rosuvastatin 5mg + Fenofibrate 160mg",
+"tag": "Lipid-lowering"
+},
+{
+"brand": "LIPSTABLE F 10/160",
+"generic": "Rosuvastatin 10mg + Fenofibrate 160mg",
+"tag": "Lipid-lowering"
+},
+{
+"brand": "LIPSTABLE A 10",
+"generic": "Rosuvastatin 10mg + Aspirin 75mg",
+"tag": "Lipid-lowering"
+},
+{
+"brand": "LIPSTABLE A 20",
+"generic": "Rosuvastatin 20mg + Aspirin 75mg",
+"tag": "Lipid-lowering"
+},
+{
+"brand": "LIPSTABLE GOLD 10",
+"generic": "Rosuvastatin 10mg + Aspirin 75mg + Clopidogrel 75mg",
+"tag": "Lipid-lowering"
+},
+{
+"brand": "LIPSTABLE GOLD 20",
+"generic": "Rosuvastatin 20mg + Aspirin 75mg + Clopidogrel 75mg",
+"tag": "Lipid-lowering"
+},
+{
+"brand": "LIPSTABLE EZ 10",
+"generic": "Rosuvastatin 10mg + Ezetimibe 10mg",
+"tag": "Lipid-lowering"
+},
+{
+"brand": "CNATOR 5",
+"generic": "Atorvastatin 5mg",
+"tag": "Lipid-lowering"
+},
+{
+"brand": "CNATOR 10",
+"generic": "Atorvastatin 10mg",
+"tag": "Lipid-lowering"
+},
+{
+"brand": "CNATOR 20",
+"generic": "Atorvastatin 20mg",
+"tag": "Lipid-lowering"
+},
+{
+"brand": "CNATOR 40",
+"generic": "Atorvastatin 40mg",
+"tag": "Lipid-lowering"
+},
+{
+"brand": "CNATOR AS 75",
+"generic": "Atorvastatin 10mg + Aspirin 75mg",
+"tag": "Lipid-lowering"
+},
+{
+"brand": "CNATOR GOLD 10",
+"generic": "Atorvastatin 10mg + Aspirin 75mg + Clopidogrel 75mg",
+"tag": "Lipid-lowering"
+},
+{
+"brand": "CNAMLO 2.5",
+"generic": "Amlodipine 2.5mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "CNAMLO 5",
+"generic": "Amlodipine 5mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "CNAMLO 10",
+"generic": "Amlodipine 10mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "CNAMLO AT 5/25",
+"generic": "Amlodipine 5mg + Atenolol 25mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "CNAMLO AT 5/50",
+"generic": "Amlodipine 5mg + Atenolol 50mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "CNAMLO MET 5/25",
+"generic": "Amlodipine 5mg + Metoprolol 25mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "CNAMLO MET 5/50",
+"generic": "Amlodipine 5mg + Metoprolol 50mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "TELTRAN 20",
+"generic": "Telmisartan 20mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "TELTRAN 40",
+"generic": "Telmisartan 40mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "TELTRAN 80",
+"generic": "Telmisartan 80mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "TELTRAN BETA 40/25",
+"generic": "Telmisartan 40mg + Metoprolol 25mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "TELTRAN BETA 40/50",
+"generic": "Telmisartan 40mg + Metoprolol 50mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "TELTRAN AM 40/5",
+"generic": "Telmisartan 40mg + Amlodipine 5mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "TELTRAN H 40/12.5",
+"generic": "Telmisartan 40mg + Hydrochlorothiazide 12.5mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "TELTRAN H 80/12.5",
+"generic": "Telmisartan 80mg + Hydrochlorothiazide 12.5mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "TELTRAN CT 40/12.5",
+"generic": "Telmisartan 40mg + Chlorthalidone 12.5mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "TELTRAN CT 80/12.5",
+"generic": "Telmisartan 80mg + Chlorthalidone 12.5mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "TELTRAN TRIO 40/10/6.25",
+"generic": "Telmisartan 40mg + Cilnidipine 10mg + Chlorthalidone 6.25mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "TELTRAN LN",
+"generic": "Telmisartan 40mg + Cilnidipine 10mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "HYPROMET ER 12.5",
+"generic": "Metoprolol Extended-Release 12.5mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "HYPROMET ER 25",
+"generic": "Metoprolol Extended-Release 25mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "HYPROMET ER 50",
+"generic": "Metoprolol Extended-Release 50mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "CLINPINE 5",
+"generic": "Cilnidipine 5mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "CLINPINE 10",
+"generic": "Cilnidipine 10mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "CLINPINE 20",
+"generic": "Cilnidipine 20mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "BISOTIN 2.5",
+"generic": "Bisoprolol 2.5mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "BISOTIN 5",
+"generic": "Bisoprolol 5mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "DYCN PLYS 10",
+"generic": "Torsemide 10mg + Spironolactone 50mg",
+"tag": "Antihypertensive"
+},
+{
+"brand": "CLOPNEX 75",
+"generic": "Clopidogrel 75mg",
+"tag": "Antiplatelet"
+},
+{
+"brand": "CLOPNEX AS 75",
+"generic": "Clopidogrel 75mg + Aspirin 75mg",
+"tag": "Antiplatelet"
+},
+{
+"brand": "CNSPRIN 75",
+"generic": "Aspirin 75mg",
+"tag": "Antiplatelet"
+}
+]
+}
